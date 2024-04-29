@@ -1,5 +1,5 @@
 # WordCounter
-Took my Project 1 for CSE 2221 at The Ohio State University and added my own twist to the project
+Took my Project 1 for CSE 2231 at The Ohio State University and added my own twist to the project
 
 Uses the Ohio State CSE Components, so this only works if you have that setup
 You can create a new project with those libraries and add the java file here to the project
