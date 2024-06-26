@@ -1,4 +1,4 @@
-# WordCounter
+# Word Counter
 Took my Project 1 for CSE 2231 at The Ohio State University and added my own twist to the project
 
 Uses the Ohio State CSE Components, so this only works if you have that setup
